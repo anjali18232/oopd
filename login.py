@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-2
-"""
-Created on Wed Oct 31 02:44:29 2018
 
-@author: ABH
-"""
 import logging
 logging.basicConfig(filename="test.log",level=logging.DEBUG)
 import sys
